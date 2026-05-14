@@ -1,0 +1,6 @@
+Google Tag Manager ID: GTM-NGZFR494
+
+Google Analytics 4 Measurement ID: G-0P3BSBLQ16
+
+Conversion Description:
+I am tracking visits to the menu page using the event "view_menu_page". The event fires when a user opens a page with "/menu" in the URL.
